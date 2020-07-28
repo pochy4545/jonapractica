@@ -1,0 +1,245 @@
+    1  clear1
+    2  clear
+    3  google-chrome-stable
+    4  sudo nano /etc/apt/sources.list.d/google-chrome.list
+    5  exit
+    6  sudo apt install gdebi-core wget
+    7  sudo wget https:/dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    8  sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    9  sudo gdebi google-chrome_stable_current_amd64.deb
+   10  sudo gdebi google-chrome-stable_current_amd64.deb
+   11  clear
+   12  google-chrome
+   13  google chrome
+   14  google-chrome
+   15  clear
+   16  exit
+   17  ls
+   18  sudo dpkg -l fpc-laz_3.2.0-1_amd64.deb
+   19  ls
+   20  clear
+   21  sudo dpkg -l uno.deb
+   22  ls
+   23  sudo dpkg -l "uno.deb"
+   24  clear
+   25  sudo apt-get install -f
+   26  sudo apt-get install uno.deb
+   27  sudo apt-get install uno
+   28  clear
+   29  ls
+   30  exit
+   31  ls
+   32  cd Descargas/
+   33  ls
+   34  clear
+   35  ls
+   36  sudo dpkg -i code_1.47.2-1594837870_amd64.deb 
+   37  ls
+   38  clear
+   39  ls
+   40  cd ..
+   41  ls
+   42  claer
+   43  clear
+   44  3ls
+   45  ls
+   46  ~clear
+   47  clear
+   48  exit
+   49  sudo apt install libreoffice
+   50  exit
+   51  su - 
+   52  su -
+   53  su - actualizacion apt
+   54  su -
+   55  clear
+   56  su -
+   57  sudo apt install libreoffice-gnome libreoffice
+   58  exit
+   59  ls
+   60  clear
+   61  teamviewber
+   62  exsit
+   63  exit
+   64  ls
+   65  mkdir mi_servidor
+   66  ls
+   67  ll
+   68  clear
+   69  ll
+   70  clear
+   71  exitr
+   72  exit
+   73  node-v
+   74  npm
+   75  node -v
+   76  npm -v
+   77  sudo apt install snapd
+   78  clear
+   79  sudo snap install android-studio
+   80  clear
+   81  exit
+   82  sudo apt-get install npm
+   83  sudo npm install -g express
+   84  clear
+   85  pwdd
+   86  pwd
+   87  clear
+   88  pwd
+   89  cd p
+   90  clear
+   91  ls
+   92  cd mi_servidor/
+   93  clear
+   94  ls
+   95  sudo npm install express
+   96  ls
+   97  nodejs servidor.js
+   98  ls
+   99  clear
+  100  ls
+  101  cd Descargas/
+  102  ls
+  103  clear
+  104  ls
+  105  mv ~/Descargas/android-studio /usr/local/
+  106  sudo mv ~/Descargas/android-studio /usr/local/
+  107  cd /usr/local/android-studio/bin
+  108  -/studio.sh
+  109  /studio.sh
+  110  ./studio.sh
+  111  sudo apt-get install git
+  112  git config --global user.name "jonatanbustamante"
+  113  git config --global user.name jonatanbustamante
+  114  git config --global user.email jonatanbustamante710@gmail.com
+  115  git init Mytest
+  116  cd Mytest/
+  117  gedit README
+  118  gedit ejemplo.c
+  119  git add README
+  120  git add ejemplo.c
+  121  git commit -m ya esta todo ok
+  122  git commit -m "mensaje"
+  123  git commit -m "agregue tal funcion"
+  124  git remote add origin https://github.com/user_name/Mytest.git
+  125  git remote add origin https://github.com/jonatanbustamante/Mytest.git
+  126  git push origin master jonatanbustamante Bustamante1994.
+  127  git push origin master
+  128  exit
+  129  curl –L https://git.io/n-install |bash
+  130  curl -L https://git.io/n-install | bash
+  131  sudo curl -L https://git.io/n-install | bash
+  132  sudo apt-get update
+  133  sudo apt-get install node
+  134  sudo apt-get install nodejs
+  135  nodejs -v
+  136  nodejs
+  137  clear
+  138  lsl
+  139  ls
+  140  clear
+  141  ls
+  142  ll
+  143  clear
+  144  ls
+  145  mkdir proyecto
+  146  clear
+  147  ls
+  148  rm -r Mytest/
+  149  clear
+  150  ls
+  151  clear
+  152  ls
+  153  pwd
+  154  rm -- mi_servidor/
+  155  rmdir mi_servidor/
+  156  rm mi_servidor/
+  157  rm -r mi_servidor/
+  158  clear
+  159  ls
+  160  clear
+  161  git -v
+  162  clear
+  163  git -v
+  164  npm -v
+  165  node -v
+  166  git -v
+  167  git
+  168  git help git
+  169  sudo apt-get install git
+  170  clear
+  171  git -v
+  172  clear
+  173  ls
+  174  cd proyecto/
+  175  clear
+  176  ls
+  177  clear
+  178  git init
+  179  clear
+  180  exit
+  181  git init
+  182  clear
+  183  git clone https://github.com/pochy4545/jonapractica.git
+  184  sudo apt install git zsh
+  185  chsh -s $(which zsh)
+  186  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+  187  sh -c $(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)
+  188  ls
+  189  cd jonapractica/
+  190  ls
+  191  ls -a
+  192  git status
+  193  git pull
+  194  git brunch
+  195  git branch
+  196  nano prueba.txt
+  197  ls
+  198  git status
+  199  git add prueba.txt
+  200  git status
+  201  git commit -m "mi primer commit"
+  202  git status
+  203  git push
+  204  git puss
+  205  git push
+  206  git status
+  207  git pull
+  208  git log
+  209  ls
+  210  rm jaja.txt
+  211  ls
+  212  rm prueba.txt 
+  213  rm subo_algo 
+  214  clear
+  215  ls
+  216  clear
+  217  ls
+  218  git status
+  219  git add .
+  220  git status
+  221  git commit -m
+  222  git commit -m "limpiandoProyecto"
+  223  git status
+  224  git push 
+  225  git status
+  226  git pull
+  227  ls 
+  228  rm readme.txt 
+  229  ls
+  230  git status
+  231  git checkout 
+  232  git checkout readme.txt
+  233  git status
+  234  ls
+  235  git cheackout .
+  236  git status
+  237  git branch
+  238  git cheackout staging
+  239  git checkout staging
+  240  git checkout -b staging
+  241  git branch staging 
+  242  git branch 
+  243  git checkout master 
+  244  history
+  245  history > history.txt
